@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "w771X1q+y98NmCa+B4VfZt9/sHblNs9qp3yAV++jVLLwmF0XA2sB6G0nA6FWM3kSpwZ4MA3T3KbeX5L09Nt0qg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\6tres-6\\Desktop\\Exercicios xamarin\\AppCondicionalXf\\AppCondicionalXf\\AppCondicionalXf\\AppCondicionalXf.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\6tres-6\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\6tres-6\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\6tres-6\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}
