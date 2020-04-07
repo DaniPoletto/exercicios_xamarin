@@ -7,10 +7,9 @@
              x:Class="Exercicio_2.MainPage">
 
     <StackLayout>
-        <!-- Place new controls here -->
-        <Label Text="Welcome to Xamarin.Forms!" 
-           HorizontalOptions="Center"
-           VerticalOptions="CenterAndExpand" />
+        <Entry x:Name="txtSaldo" Placeholder="Informe o Saldo" Keyboard="Numeric"/>
+        <Entry x:Name="txtResultado" Placeholder="" IsEnabled="False"/>
+        <Button x:Name="btnCalcular" Text="Calcular" Clicked="btnCalcular_Clicked"/>
     </StackLayout>
 
 </ContentPage>

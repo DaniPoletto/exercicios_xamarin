@@ -13,9 +13,25 @@ namespace Exercicio_2
     [DesignTimeVisible(false)]
     public partial class MainPage : ContentPage
     {
+        double saldo;
         public MainPage()
         {
             InitializeComponent();
+            saldo = 0;
+        }
+
+        private void btnCalcular_Clicked(object sender, EventArgs e)
+        {
+            double resultado = 0;
+            if (!double.TryParse(txtSaldo.Text, out saldo))
+            {
+                DisplayAlert("Atenção", "Informe um valor correto para o saldo", "Fechar");
+            }
+            else
+            {
+                resultado = saldo * 1.01;
+                txtResultado.Text = $"O valor com 1% é {resultado}";
+            }
         }
     }
 }
