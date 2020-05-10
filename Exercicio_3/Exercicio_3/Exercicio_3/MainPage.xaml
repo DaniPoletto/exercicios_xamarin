@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Exercicio_3.MainPage">
+
+    <StackLayout Margin="10">
+
+        <StackLayout  Margin="10">
+            <Label Text="Calcular se é divisivel por 3" 
+                HorizontalOptions="Center"/>
+        </StackLayout>
+
+        <StackLayout Margin="0,30">
+            <Label Text="Número"/>
+            
+            <Entry x:Name="txt_numero" Keyboard="Numeric" Margin="0,0,0,20"/>
+
+            <Button x:Name="txt_calcular_divivisel_3" Text="Calcular" Clicked="txt_calcular_divivisel_3_Clicked"/>
+        </StackLayout>
+
+        
+        <StackLayout Margin="0,10">
+            <Label x:Name="txt_resultado" Text="" />
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>
