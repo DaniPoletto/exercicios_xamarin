@@ -1,0 +1,14 @@
+C:\Users\6tres-6\Desktop\Exercicios_xamarin_lista\Exercicio_IMC\Exercicio_IMC\Exercicio_IMC\bin\Debug\netstandard2.0\Exercicio_IMC.deps.json
+C:\Users\6tres-6\Desktop\Exercicios_xamarin_lista\Exercicio_IMC\Exercicio_IMC\Exercicio_IMC\bin\Debug\netstandard2.0\Exercicio_IMC.dll
+C:\Users\6tres-6\Desktop\Exercicios_xamarin_lista\Exercicio_IMC\Exercicio_IMC\Exercicio_IMC\bin\Debug\netstandard2.0\ref\Exercicio_IMC.dll
+C:\Users\6tres-6\Desktop\Exercicios_xamarin_lista\Exercicio_IMC\Exercicio_IMC\Exercicio_IMC\bin\Debug\netstandard2.0\Exercicio_IMC.pdb
+C:\Users\6tres-6\Desktop\Exercicios_xamarin_lista\Exercicio_IMC\Exercicio_IMC\Exercicio_IMC\obj\Debug\netstandard2.0\Exercicio_IMC.csprojAssemblyReference.cache
+C:\Users\6tres-6\Desktop\Exercicios_xamarin_lista\Exercicio_IMC\Exercicio_IMC\Exercicio_IMC\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\6tres-6\Desktop\Exercicios_xamarin_lista\Exercicio_IMC\Exercicio_IMC\Exercicio_IMC\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\6tres-6\Desktop\Exercicios_xamarin_lista\Exercicio_IMC\Exercicio_IMC\Exercicio_IMC\obj\Debug\netstandard2.0\Exercicio_IMC.csproj.CoreCompileInputs.cache
+C:\Users\6tres-6\Desktop\Exercicios_xamarin_lista\Exercicio_IMC\Exercicio_IMC\Exercicio_IMC\obj\Debug\netstandard2.0\Exercicio_IMC.AssemblyInfoInputs.cache
+C:\Users\6tres-6\Desktop\Exercicios_xamarin_lista\Exercicio_IMC\Exercicio_IMC\Exercicio_IMC\obj\Debug\netstandard2.0\Exercicio_IMC.AssemblyInfo.cs
+C:\Users\6tres-6\Desktop\Exercicios_xamarin_lista\Exercicio_IMC\Exercicio_IMC\Exercicio_IMC\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\6tres-6\Desktop\Exercicios_xamarin_lista\Exercicio_IMC\Exercicio_IMC\Exercicio_IMC\obj\Debug\netstandard2.0\Exercicio_IMC.dll
+C:\Users\6tres-6\Desktop\Exercicios_xamarin_lista\Exercicio_IMC\Exercicio_IMC\Exercicio_IMC\obj\Debug\netstandard2.0\ref\Exercicio_IMC.dll
+C:\Users\6tres-6\Desktop\Exercicios_xamarin_lista\Exercicio_IMC\Exercicio_IMC\Exercicio_IMC\obj\Debug\netstandard2.0\Exercicio_IMC.pdb

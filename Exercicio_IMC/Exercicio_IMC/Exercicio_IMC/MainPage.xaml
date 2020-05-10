@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Exercicio_IMC.MainPage">
+
+    <StackLayout Margin="10">
+        <StackLayout HorizontalOptions="Center" Margin="40">
+            <Label Text="Calcule seu IMC"/>
+        </StackLayout>
+
+        <StackLayout Margin="10">
+            <Label Text="Altura"/>
+            <Entry x:Name="txt_altura" Keyboard="Numeric" Placeholder="Ex: 1,54"/>
+        
+            <Label Text="Peso" />
+            <Entry x:Name="txt_peso" Keyboard="Numeric" Placeholder="Ex: 51,5" />
+        
+            <Button x:Name="txt_calcularIMC" Text="Calcular" Clicked="txt_calcularIMC_Clicked"/>
+        </StackLayout>
+
+        <StackLayout Margin="30,30" BackgroundColor="Accent">
+            <Label x:Name="txt_resultado" />
+        </StackLayout>
+            
+        
+    </StackLayout>
+
+</ContentPage>
