@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Exercicio_4.MainPage">
+
+    <StackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
+        <Label Text="Verifique se um mês é baixa ou alta temporada" Margin="0,20"/>
+        <Label Text="Digite o número correspondente ao mês do ano:"  />
+        <Entry x:Name="txt_mes" Placeholder="" Keyboard="Numeric"/>
+
+        <Button x:Name="btn_temporada" Text="Calcular" Clicked="btn_temporada_Clicked" Margin="0,20"/>
+
+        <Label x:Name="txt_resultado" Margin="0,20" BackgroundColor="LightBlue" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand"/>
+
+    </StackLayout>
+
+</ContentPage>
