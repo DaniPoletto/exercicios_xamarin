@@ -16,6 +16,15 @@ namespace Exercicio_8
         public MainPage()
         {
             InitializeComponent();
+            int i = 1, res_fat = 1;
+            string res = "0! = 1\n";
+            while (i<10)
+            {
+                res_fat *= i;
+                res += i+"! = "+res_fat+"\n";
+                i++;
+            }
+            txt_resultado.Text = res;
         }
     }
 }

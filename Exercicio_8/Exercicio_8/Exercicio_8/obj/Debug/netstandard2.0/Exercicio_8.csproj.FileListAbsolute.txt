@@ -1,0 +1,14 @@
+C:\Users\6tres-6\Desktop\Exercicios_xamarin_lista\Exercicio_8\Exercicio_8\Exercicio_8\bin\Debug\netstandard2.0\Exercicio_8.deps.json
+C:\Users\6tres-6\Desktop\Exercicios_xamarin_lista\Exercicio_8\Exercicio_8\Exercicio_8\bin\Debug\netstandard2.0\Exercicio_8.dll
+C:\Users\6tres-6\Desktop\Exercicios_xamarin_lista\Exercicio_8\Exercicio_8\Exercicio_8\bin\Debug\netstandard2.0\ref\Exercicio_8.dll
+C:\Users\6tres-6\Desktop\Exercicios_xamarin_lista\Exercicio_8\Exercicio_8\Exercicio_8\bin\Debug\netstandard2.0\Exercicio_8.pdb
+C:\Users\6tres-6\Desktop\Exercicios_xamarin_lista\Exercicio_8\Exercicio_8\Exercicio_8\obj\Debug\netstandard2.0\Exercicio_8.csprojAssemblyReference.cache
+C:\Users\6tres-6\Desktop\Exercicios_xamarin_lista\Exercicio_8\Exercicio_8\Exercicio_8\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\6tres-6\Desktop\Exercicios_xamarin_lista\Exercicio_8\Exercicio_8\Exercicio_8\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\6tres-6\Desktop\Exercicios_xamarin_lista\Exercicio_8\Exercicio_8\Exercicio_8\obj\Debug\netstandard2.0\Exercicio_8.csproj.CoreCompileInputs.cache
+C:\Users\6tres-6\Desktop\Exercicios_xamarin_lista\Exercicio_8\Exercicio_8\Exercicio_8\obj\Debug\netstandard2.0\Exercicio_8.AssemblyInfoInputs.cache
+C:\Users\6tres-6\Desktop\Exercicios_xamarin_lista\Exercicio_8\Exercicio_8\Exercicio_8\obj\Debug\netstandard2.0\Exercicio_8.AssemblyInfo.cs
+C:\Users\6tres-6\Desktop\Exercicios_xamarin_lista\Exercicio_8\Exercicio_8\Exercicio_8\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\6tres-6\Desktop\Exercicios_xamarin_lista\Exercicio_8\Exercicio_8\Exercicio_8\obj\Debug\netstandard2.0\Exercicio_8.dll
+C:\Users\6tres-6\Desktop\Exercicios_xamarin_lista\Exercicio_8\Exercicio_8\Exercicio_8\obj\Debug\netstandard2.0\ref\Exercicio_8.dll
+C:\Users\6tres-6\Desktop\Exercicios_xamarin_lista\Exercicio_8\Exercicio_8\Exercicio_8\obj\Debug\netstandard2.0\Exercicio_8.pdb

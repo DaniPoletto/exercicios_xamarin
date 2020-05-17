@@ -7,10 +7,8 @@
              x:Class="Exercicio_8.MainPage">
 
     <StackLayout>
-        <!-- Place new controls here -->
-        <Label Text="Welcome to Xamarin.Forms!" 
-           HorizontalOptions="Center"
-           VerticalOptions="CenterAndExpand" />
+        <Label Text="Fatoriais de 0 a 10" />
+        <Label x:Name="txt_resultado" />
     </StackLayout>
 
 </ContentPage>

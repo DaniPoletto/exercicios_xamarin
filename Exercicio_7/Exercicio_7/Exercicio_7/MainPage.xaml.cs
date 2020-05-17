@@ -28,11 +28,11 @@ namespace Exercicio_7
             else
             {
                 int i = 2;
-                string resultado = "O valor do mês 1 é R$ "+valor+"\n ";
+                string resultado = "O valor do mês 1 é R$ "+ Math.Round(valor, 2) +"\n";
                 while (i<=12)
                 {
                     valor += valor * 0.05;
-                    resultado += "O valor do mês " + i + " é R$ " + valor+"\n ";
+                    resultado += "O valor do mês " + i + " é R$ " + Math.Round(valor, 2) +"\n";
                     i++;
                 }
 
